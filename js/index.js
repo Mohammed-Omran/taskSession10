@@ -103,10 +103,5 @@ var filteredNum = numbers.filter(function (item) {
 });
 console.log(filteredNum);
 
-// Search Task
 
-var names =["mohamed","ahmed","ziad","sayed","victor","belal"];
-console.log(names);
-names.sort();
-console.log(names);
 
